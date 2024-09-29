@@ -1,7 +1,7 @@
 # Infinite-learning-project
 Repository of infinite learning project
 1. [OpenWeather projects](https://github.com/marshallexperiment/Infinite-learning-projects/blob/main/Project-openWeatherApi/Infinite_Learning_Project_Marshall_Al_Karim.ipynb)
-# Infinite-learning-project Ideas
+# Infinite-learning Massive project Ideas
 1. [TuDelft Course](https://3d.bk.tudelft.nl/education/#courses)
 2. [Potential MSc topics](https://3d.bk.tudelft.nl/education/msctopics/) as well as [Potential research orientation](https://3d.bk.tudelft.nl/education/researchtopics/)
 3. [Personal Future Ideas](https://github.com/stars/marshallexperiment/lists/for-il)
