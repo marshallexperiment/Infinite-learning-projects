@@ -17,5 +17,7 @@ A repository for the Infinite Learning Project, showcasing various machine learn
 4. [Sentiment Analysis with Caikit](https://github.com/marshallexperiment/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face)
 5. [Anime-DCGANS](https://github.com/marshallexperiment/anime-dcgans)
 
+### Massive Project
+[FINAL PROJECT](https://github.com/rroy99/lyfeStock-AI-Web-Mobile-Community)
 ### Cool Resource
 - [Machine Learning for IoT](https://tinyml.seas.harvard.edu/courses/)
