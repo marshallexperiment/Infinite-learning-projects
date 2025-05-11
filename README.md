@@ -18,6 +18,6 @@ A repository for the Infinite Learning Project, showcasing various machine learn
 5. [Anime-DCGANS](https://github.com/marshallexperiment/anime-dcgans)
 
 ### Massive Project
-[FINAL PROJECT](https://github.com/rroy99/lyfeStock-AI-Web-Mobile-Community)
+[MASSIVE PROJECT](https://github.com/rroy99/lyfeStock-AI-Web-Mobile-Community)
 ### Cool Resource
 - [Machine Learning for IoT](https://tinyml.seas.harvard.edu/courses/)
