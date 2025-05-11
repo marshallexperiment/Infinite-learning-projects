@@ -12,7 +12,7 @@ A repository for the Infinite Learning Project, showcasing various machine learn
 ### Projects
 
 1. [OpenWeather Project](https://github.com/marshallexperiment/Infinite-learning-projects/blob/main/Project-openWeatherApi/Infinite_Learning_Project_Marshall_Al_Karim.ipynb)
-2. [LSTM with Bapetti Data](https://github.com/marshallexperiment/Infinite-learning-projects/blob/main/Project-LSTM/Marshall_LSTM_menggunakan_Data_Bapetti.ipynb)
+2. [LSTM with Bapetti Data (Micro Project)](https://github.com/marshallexperiment/Infinite-learning-projects/blob/main/Project-LSTM/Marshall_LSTM_menggunakan_Data_Bapetti.ipynb)
 3. [NLP Task with HF Transformers](https://github.com/marshallexperiment/Infinite-learning-projects/blob/main/Project-NLP-HF-Transformer/hugging_face_transformers.ipynb)
 4. [Sentiment Analysis with Caikit](https://github.com/marshallexperiment/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face)
 5. [Anime-DCGANS](https://github.com/marshallexperiment/anime-dcgans)
